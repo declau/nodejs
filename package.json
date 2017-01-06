@@ -16,6 +16,7 @@
     "url": "https://github.com/declau/nodejs/issues"
   },
   "dependencies": {
-    "express": "~4.14.0"
+    "express": "~4.14.0",
+    "ejs": "~2.5.5"
   }
 }
