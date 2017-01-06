@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "0.0.0",
+  "description": "Studying nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/declau/nodejs.git"
+  },
+  "author": "Denis Eduardo Claudiano",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/declau/nodejs/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0"
+  }
+}
